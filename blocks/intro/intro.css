@@ -1,0 +1,8 @@
+.intro {
+  max-width: 1280px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Inter";
+  color: #fff;
+  padding-top: 92px;
+}

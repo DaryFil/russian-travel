@@ -1,0 +1,10 @@
+.cover {
+  max-width: 1184px;
+  aspect-ratio: 8 / 5;
+  padding: 92px 48px 0;
+
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* position: relative; */
+}

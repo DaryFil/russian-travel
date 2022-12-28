@@ -1,0 +1,6 @@
+.place {
+  max-width: 1280px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 92px;
+}

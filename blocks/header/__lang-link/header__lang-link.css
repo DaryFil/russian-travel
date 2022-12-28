@@ -1,0 +1,9 @@
+.header__lang-link {
+  color: #fff;
+  text-decoration: underline;
+  width: 30px;
+  height: 28px;
+}
+.header__lang-link_disabled {
+  text-decoration: none;
+}
