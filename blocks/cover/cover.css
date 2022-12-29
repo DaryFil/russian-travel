@@ -1,10 +1,9 @@
 .cover {
   max-width: 1184px;
+  background-image: url(../../../images/cover-trains.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto;
   aspect-ratio: 8 / 5;
-  padding: 92px 48px 0;
-
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* justify-content: center; */
-  /* position: relative; */
 }
