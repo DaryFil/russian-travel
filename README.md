@@ -11,4 +11,4 @@
 - Flexbox
 - Grid
   Адаптивный интерфейс для разных устройств.
-  Ссылка на проект:
+  Ссылка на проект: https://daryfil.github.io/russian-travel/index.html
