@@ -16,13 +16,13 @@
   .place {
     grid-template-columns: minmax(340px, 440px) minmax(352px, 456px);
     column-gap: 28px;
-    padding: 0 0 73px 0;
+    padding-bottom: 73px;
   }
 }
 @media screen and (max-width: 767px) {
   .place {
     grid-template-columns: 100%;
-    padding: 0 0 50px 0;
+    padding-bottom: 50px;
     gap: 32px;
   }
 }

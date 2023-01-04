@@ -4,7 +4,6 @@
   padding: 92px 48px 0;
   justify-content: center;
   grid-gap: 16px;
-  /* grid-template-columns: repeat(auto-fit, minmax(284px, 1fr)); */
   grid-template-columns: repeat(4, 1fr);
 }
 
